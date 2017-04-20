@@ -4,4 +4,7 @@ This repository is a collection of extra notes and tutorials developed for COMP 
 
 Extras include:
 
-  * game-walkthroughs
+  * game design and dev
+  * game walkthroughs
+  * pygame
+  * various
