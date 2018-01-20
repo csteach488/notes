@@ -1,3 +1,3 @@
-### Notes
+### Notes - Extras
 
-This repository is a collection of notes and tutorials developed for COMP 488.
+This repository is a collection of extra notes and tutorials developed for COMP 488.
